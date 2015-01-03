@@ -1,4 +1,4 @@
 zoomi
 =====
 
-Zoom Control for Cameras with Raspberry Pi and Step Motor
+Zoom Control for Cameras with Raspberry Pi and a Step Motor
